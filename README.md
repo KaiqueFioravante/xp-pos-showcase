@@ -237,7 +237,35 @@ Sou responsável pela:
 
 ## 🖼️ Interface
 
-> Screenshots demonstrativos serão adicionados a este repositório utilizando apenas dados fictícios.
+### Dashboard / Operational overview
+
+![Dashboard do XP POS](assets/screenshots/dashboard.png)
+
+### PDV / Point of sale
+
+![Tela de PDV do XP POS](assets/screenshots/pdv.png)
+
+### Mesas e preparação / Tables and preparation
+
+| Mapa de mesas | Fila de preparação |
+|---|---|
+| ![Mapa de mesas](assets/screenshots/tables-map.png) | ![Fila de preparação](assets/screenshots/preparation-queue.png) |
+
+### Caixa / Cash management
+
+| Operação do caixa | Conferência de fechamento |
+|---|---|
+| ![Tela de caixa](assets/screenshots/cash-register.png) | ![Conferência de fechamento](assets/screenshots/cash-closing.png) |
+
+### XP Cloud
+
+![Tela de Backup e Cloud](assets/screenshots/cloud-backup.png)
+
+| Envio em segundo plano | Backup concluído |
+|---|---|
+| ![Envio de backup ao XP Cloud](assets/screenshots/cloud-backup-upload.png) | ![Backup concluído](assets/screenshots/cloud-backup-complete.png) |
+
+> As telas acima utilizam dados de demonstração e foram selecionadas para apresentar os principais fluxos do produto.
 
 ---
 
